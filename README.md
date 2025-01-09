@@ -4,7 +4,6 @@ LioRally est un projet créé par quatre étudiants passionnés dans le but de s
 
 Dans ce repos, vous allez trouver: 
 - Les assets nécessaires (doit avoir Unity d'installé)
-- Un fichier de photos et de vidéos.
 **Important** Il est nécessaire d'avoir les packages "TextMeshPro" et "Road Architect" disponibles gratuitement sur l'asset store de Unity.
 
 # Fonctionnalités principales 
@@ -38,7 +37,6 @@ LioRally is a project created by four passionate students aiming to realisticall
 
 In this repo, you will find:
 - The assets of the game (Unity needs to be installed)
-- A folder with photos/videos.
 **Important** It is necessary to have the "TextMeshPro" and "Road Architect" packages avalaible for free in the Unity asset store.
   
 # Main features : 
